@@ -1,3 +1,3 @@
 {
-  "api": "https://api.torob.com/a/phone/send-pin/?phone_number\u003d"
+  "api": "https://core.gap.im/v1/user/add.json?mobile="
 }
