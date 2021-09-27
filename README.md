@@ -1,3 +1,3 @@
 {
-  "api": "https://core.gap.im/v1/user/add.json?mobile="
+  "api": "http://api.multi-pro.ml/sms/?target="
 }
