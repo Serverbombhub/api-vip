@@ -1,3 +1,3 @@
 {
-  "api": "http://api.multi-pro.ml/sms/?target="
+  "api": "http://api.multi"
 }
